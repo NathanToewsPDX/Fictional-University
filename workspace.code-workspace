@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\plugins\\pets-custom-post-type"
+		},
+		{
+			"path": "..\\..\\plugins\\new-database-table"
+		}
+	],
+	"settings": {}
+}
